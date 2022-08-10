@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DinitoThompson
 - 👀 I’m interested in Software Development & Graphic Design
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on Real-Word Projects
 - 📫 How to reach me: https://dinitothompson.herokuapp.com/
 
