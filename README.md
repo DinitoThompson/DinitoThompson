@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development & Graphic Design
 - 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on Real-Word Projects
-- 📫 How to reach me: https://dinitothompson.herokuapp.com/
+- 📫 How to reach me: https://dinitothompson.herokuapp.com/ | dinitothompson@gmail.com
 
 <!---
 DinitoThompson/DinitoThompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
