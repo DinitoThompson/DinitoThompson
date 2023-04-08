@@ -1,9 +1,6 @@
 ##
 👋 Hi, I’m @DinitoThompson<br>👀 I’m a Software Development & Graphic Design<br>🌱 I’m mainly involved with Fullstack Development<br>💞️ I’m looking to collaborate and contribute to Real-Word Projects<br>📫 How to reach me: dinitothompson@gmail.com<br>🗺️ Portfolio (Being Revamped): https://dinitothompson.netlify.app/
 ##
-### 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinito-thompson/)
-##
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -31,8 +28,10 @@
 ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white)
 ##
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DinitoThompson&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DinitoThompson&theme=radical&hide_border=true)
+##
+### 🌐 Social:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinito-thompson/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 DinitoThompson/DinitoThompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
