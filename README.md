@@ -1,4 +1,3 @@
-# 💫 Welcome
 👋 Hi, I’m @DinitoThompson<br>👀 I’m a Software Development & Graphic Design<br>🌱 I’m mainly involved with Fullstack Development (React, Flutter, Springboot, Java, etc)<br>💞️ I’m looking to collaborate and contribute to Real-Word Projects<br>📫 How to reach me: dinitothompson@gmail.com<br>🗺️ Portfolio (Being Revamped): https://dinitothompson.netlify.app/
 
 
