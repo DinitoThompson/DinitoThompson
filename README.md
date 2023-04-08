@@ -31,7 +31,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DinitoThompson&theme=radical&hide_border=true)
 ##
 ### 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinito-thompson/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinito-thompson/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 DinitoThompson/DinitoThompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
