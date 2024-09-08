@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi! I'm Dinito
+# 👋 Hi! I'm Dinito [![LinkedIn](https://img.shields.io/badge/Let's%20Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinito-thompson/)
 
 Passionate about turning coffee ☕ into code 💻 and ideas into pixels 🎨
 
@@ -38,5 +38,3 @@ Got a cool project idea? Want to collaborate? Or just fancy a chat?
 Drop me a line at dinitothompson@gmail.com 📧
 
 Remember: Stay curious, keep coding, and may your coffee be strong! ☕💻
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinito-thompson/)
