@@ -36,7 +36,7 @@ Passionate about turning coffee ☕ into code 💻 and ideas into pixels 🎨
 
 ## 📫 Let's Chat!
 
-Got a cool project idea? Want to collaborate? Or just fancy a chat about the latest tech trends?
+Got a cool project idea? Want to collaborate? Or just fancy a chat?
 
 Drop me a line at dinitothompson@gmail.com 📧
 
