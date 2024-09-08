@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, World! I'm Dinito Thompson
+# 👋 Hi! I'm Dinito
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinito-thompson/)
 
