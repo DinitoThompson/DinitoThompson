@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dinito Thompson
 
-Fullstack Developer and Graphic Designer with a passion for creating innovative solutions and beautiful designs.
+As a Software Developer, I combine strong analytical and creative skills to develop and implement complex designs and functional solutions. I am committed to ongoing learning and thrive in a collaborative environment.
 
 - 👀 Specializing in Software Development & Graphic Design
 - 🌱 Focused on Fullstack Development
