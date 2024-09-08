@@ -1,53 +1,43 @@
-# 👋 Hi, I'm Dinito Thompson
+<div align="center">
 
-As a Software Developer, I combine strong analytical and creative skills to develop and implement complex designs and functional solutions. I am committed to ongoing learning and thrive in a collaborative environment.
+# 👋 Hello, World! I'm Dinito Thompson
 
-- 👀 Specializing in Software Development & Graphic Design
-- 🌱 Focused on Fullstack Development
-- 💞️ Looking to collaborate on Real-World Projects
-- 📫 Reach me at: dinitothompson@gmail.com
-- 🗺️ [Portfolio](https://dinitothompson.netlify.app/) (Currently Being Revamped)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinito-thompson/)
 
-## 💻 Tech Stack
+Passionate about turning coffee ☕ into code 💻 and ideas into pixels 🎨
 
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+</div>
 
-### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Yii2](https://img.shields.io/badge/Yii2-4B5562?style=for-the-badge&logo=yii&logoColor=white)
+## 🚀 About Me
 
-### Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- 🌟 Software Developer by day, Graphic Designer by night
+- 🌱 Always learning, currently diving deep into Fullstack Development
+- 💡 Love collaborating on real-world projects that make a difference
+- 🎨 Bringing designs to life is my superpower
+- 🌍 Check out my [digital playground](https://dinitothompson.netlify.app/) (Under renovation! 🏗️)
 
-### Design Tools
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
-![Affinity Publisher](https://img.shields.io/badge/affinity%20publisher-%23C9284D.svg?style=for-the-badge&logo=affinity-publisher&logoColor=white)
+<div align="center">
 
-## 📊 GitHub Stats
+## 🛠️ Skills
+
+| API | Web | Cloud |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-SpringBoot-orange?style=flat-square&logo=java) ![PHP](https://img.shields.io/badge/PHP-Yii2-777BB4?style=flat-square&logo=php) | ![Next.js](https://img.shields.io/badge/Next.js-React-black?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+
+| Database | Mobile | Design Tools |
+|:---:|:---:|:---:|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/XAMPP-MySQL-FB7A24?style=flat-square&logo=xampp) | ![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square&logo=flutter) | ![Adobe](https://img.shields.io/badge/Adobe-Suite-FF0000?style=flat-square&logo=adobe) ![Affinity](https://img.shields.io/badge/Affinity-Suite-222324?style=flat-square&logo=affinity) |
+
+## 📈 GitHub Adventures
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DinitoThompson&theme=radical&hide_border=true)
 
-## 🌐 Connect with me
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinito-thompson/)
+## 📫 Let's Chat!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Got a cool project idea? Want to collaborate? Or just fancy a chat about the latest tech trends?
+
+Drop me a line at dinitothompson@gmail.com 📧
+
+Remember: Stay curious, keep coding, and may your coffee be strong! ☕💻
