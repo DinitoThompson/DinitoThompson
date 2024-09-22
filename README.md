@@ -1,40 +1,90 @@
-<div align="center">
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinito+Thompson!;"
+  />
+</h1>
 
-# 👋 Hi! I'm Dinito [![LinkedIn](https://img.shields.io/badge/Let's%20Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinito-thompson/)
+<h3 align="center">
+  Passionate about turning coffee ☕ into code 💻 and ideas into pixels 🎨 | 🇯🇲
+</h3>
+<hr />
+<h2 align="center">🚀 About Me</h2>
 
-Passionate about turning coffee ☕ into code 💻 and ideas into pixels 🎨
-
+<div>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🌞 Software Developer by day, 🌟 Graphic Designer by night</li>
+    <li>🌱 Always learning, currently diving deep into Fullstack Development</li>
+    <li>🤝 Passionate about collaborating on impactful real-world projects</li>
+    <li>💡 Transforming ideas into visual realities</li>
+    <li>🌍 Explore my <a href="https://dinitothompson.netlify.app/">digital playground</a> (Under renovation! 🏗️)</li>
+  </ul>
 </div>
 
-## 🚀 About Me
 
-- 🌟 Software Developer by day, Graphic Designer by night
-- 🌱 Always learning, currently diving deep into Fullstack Development
-- 💡 Love collaborating on real-world projects that make a difference
-- 🎨 Bringing designs to life is my superpower
-- 🌍 Check out my [digital playground](https://dinitothompson.netlify.app/) (Under renovation! 🏗️)
+<hr />
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 
 <div align="center">
 
-## 🛠️ Skills
-| API Development | Web Development | Cloud & DevOps |
-| --- | --- | --- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Yii2](https://img.shields.io/badge/Yii2-03979E?style=for-the-badge&logo=yii&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Apicurio](https://img.shields.io/badge/Apicurio-32CD32?style=for-the-badge&logo=apicurio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
-
-| Database | Mobile | Testing & Design Tools |
-| --- | --- | --- |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white) ![Affinity](https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white) |
-
-## 📈 GitHub Adventures
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=DinitoThompson&theme=radical&hide_border=true)
-
+| Languages | Web Development | Mobile & Cross-Platform |
+|:---:|:---:|:---:|
+| <div align="center"><img src="https://skillicons.dev/icons?i=java,php,py,js,ts,c,cpp" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind" /><br/><img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></div> |
+| Backend & APIs | Databases | DevOps & Cloud |
+| <div align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,php,py" /><br/><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Yii2-03979E?style=for-the-badge&logo=yii&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" /><br/><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,github" /></div> |
+| IDEs & Tools | Design & UI/UX | Machine Learning |
+| <div align="center"><img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,postman,gradle,maven,npm" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=figma" /><br/><img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=tensorflow,py" /></div> |
+</div>
+<br />
+<hr />
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<div align="center">
+  <img
+    width="390"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DinitoThompson&theme=radical&hide_border=true"
+    alt="streak stats"
+  />
+  <img
+    width="390"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=DinitoThompson&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"
+    alt="readme stats"
+  />
+  <br />
+</div>
+<hr />
+<br />
+<div align="center">
+  <p>
+    <strong
+      >Got a cool project idea? Want to collaborate? Or just fancy a
+      chat?</strong
+    ><br />
+    Drop me a line at dinitothompson@gmail.com 📧
+  </p>
+  <p>
+    <em
+      >Remember: Stay curious, keep coding, and may your coffee be strong!
+      ☕💻</em
+    >
+  </p>
 </div>
 
-## 📫 Let's Chat!
+<div align="center">
+  <a href="mailto:dinitothompson@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/dinito-thompson/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"
+    />
+  </a>
+</div>
 
-Got a cool project idea? Want to collaborate? Or just fancy a chat?
-
-Drop me a line at dinitothompson@gmail.com 📧
-
-Remember: Stay curious, keep coding, and may your coffee be strong! ☕💻
+<h3 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;"
+  />
+</h3>
