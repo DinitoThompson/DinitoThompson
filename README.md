@@ -16,7 +16,7 @@
     <li>🌱 Always learning, currently diving deep into Fullstack Development</li>
     <li>🤝 Passionate about collaborating on impactful real-world projects</li>
     <li>💡 Transforming ideas into visual realities</li>
-    <li>🌍 Explore my <a href="https://dinitothompson.netlify.app/">digital playground</a> (Under renovation! 🏗️)</li>
+    <li>🌍 Explore my <a href="https://dinitothompson.netlify.app/">Digital Playground</a></li>
   </ul>
 </div>
 
