@@ -1,90 +1,81 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinito+Thompson!;"
-  />
-</h1>
+# Hi, I'm Dinito Thompson 👋
 
-<h3 align="center">
-  Passionate about turning coffee ☕ into code 💻 and ideas into pixels 🎨 | 🇯🇲
-</h3>
-<hr />
-<h2 align="center">🚀 About Me</h2>
+📍 **Kingston, Jamaica** | 💻 **Lead Developer @ Konnexx** | 🎨 **Full-stack Builder + Designer**
 
-<div>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🌞 Software Developer by day, 🌟 Graphic Designer by night</li>
-    <li>🌱 Always learning, currently diving deep into Fullstack Development</li>
-    <li>🤝 Passionate about collaborating on impactful real-world projects</li>
-    <li>💡 Transforming ideas into visual realities</li>
-    <li>🌍 Explore my <a href="https://dinitothompson.vercel.app/">Digital Playground</a></li>
-  </ul>
-</div>
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+> Vibe-coding community-driven solutions – building full-stack production systems where code meets design.
 
-<hr />
-<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+Leading a team of 4 developers shipping enterprise solutions. Background in both development and design, currently deep in Laravel APIs, Next.js interfaces, and Flutter mobile apps deployed on AWS infrastructure.
 
-<div align="center">
+## Current Projects
 
-| Languages | Web Development | Mobile & Cross-Platform |
-|:---:|:---:|:---:|
-| <div align="center"><img src="https://skillicons.dev/icons?i=java,php,py,ts" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" /><br/><img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></div> |
-| Backend & APIs | Databases | DevOps & Cloud |
-| <div align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs,php" /><br/><img src="https://img.shields.io/badge/Yii2-03979E?style=for-the-badge&logo=yii&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br/><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,firebase,docker,github" /></div> |
-| IDEs & Tools | Design & UI/UX | Machine Learning |
-| <div align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,postman,npm" /></div> | <div align="center"><br/><img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=tensorflow,py" /></div> |
-</div>
-<br />
-<hr />
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<div align="center">
-  <img
-    width="390"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DinitoThompson&theme=radical&hide_border=true"
-    alt="streak stats"
-  />
-  <img
-    width="390"
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=DinitoThompson&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"
-    alt="readme stats"
-  />
-  <br />
-</div>
-<hr />
-<br />
-<div align="center">
-  <p>
-    <strong
-      >Got a cool project idea? Want to collaborate? Or just fancy a
-      chat?</strong
-    ><br />
-    Drop me a line at dinitothompson@gmail.com 📧
-  </p>
-  <p>
-    <em
-      >Remember: Stay curious, keep coding, and may your coffee be strong!
-      ☕💻</em
-    >
-  </p>
-</div>
+### 🚌 Open Source
 
-<div align="center">
-  <a href="mailto:dinitothompson@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/dinito-thompson/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-    />
-  </a>
-</div>
+- **[Bus Ping](https://github.com/yourusername/bus-ping)** - Community-driven transit tracking app that crowdsources real-time bus locations across Jamaica
 
-<h3 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;"
-  />
-</h3>
+### 🏢 Production Systems
+
+- **Payment Processing Platform** - Internal payment gateway orchestrating transactions across multiple enterprise applications with secure API integrations
+- **Property Management System** - Comprehensive inspection and asset management solution handling large-scale facility operations
+- **Job Management Platform** - Digital work order system connecting supervisors to field technicians through web dashboard and mobile app
+- **Live Streaming Platform** - Real-time video streaming service with user authentication and content management
+- **E-commerce Platform** - Full-featured online storefront with inventory management and order processing
+- **Accounts Management System** - Internal financial tracking dashboard for payment reconciliation and reporting
+
+## What I'm Building With
+
+**Backend**: Laravel APIs with domain-driven design patterns, RESTful architecture, and comprehensive testing
+
+**Frontend**: Next.js with TypeScript, Shadcn/UI components, TailwindCSS for responsive interfaces
+
+**Mobile**: Flutter for cross-platform iOS and Android applications
+
+**Infrastructure**: AWS deployment with CI/CD pipelines, Docker containerization, database optimization
+
+**Database**: PostgreSQL and MySQL with performance tuning and migration strategies
+
+## GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/DinitoThompson)
+
+## Github Stats
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=DinitoThompson&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats"/>
+
+## What I'm Doing
+
+- **Leading development teams** - Managing full-stack projects from requirements to production deployment
+- **Building for scale** - Architecting enterprise solutions that handle real-world complexity
+- **Designing systems** - Combining development and design expertise to create cohesive user experiences
+- **Shipping consistently** - Delivering production systems across web, mobile, and API platforms
+
+## Connect
+
+[![Email](https://img.shields.io/badge/-dinitothompson@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dinitothompson@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Dinito_Thompson-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinito-thompson/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://dinitothompson.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DinitoThompson)
+
+---
+
+### Philosophy
+
+> "Ship beats perfect" - Building solutions that solve real problems, leading teams that deliver results, and maintaining the balance between code quality and velocity.
+
+<details>
+<summary>Quick Facts</summary>
+
+- Lead developer managing a team of 4
+- Dual background in software development and graphic design
+- Bachelor's in Computing from University of Technology, Jamaica
+- Architecting with domain-driven design principles
+- Powered by Kingston coffee and clean code
+- Building in public: community-first transit solutions
+
+</details>
