@@ -19,41 +19,41 @@ Leading a team of 4 developers shipping enterprise solutions. Background in both
 
 ### 🚌 Open Source
 
-- **Bus Ping** - Community-driven transit tracking app that crowdsources real-time bus locations across Jamaica
+- **[Bus Ping](https://github.com/yourusername/bus-ping)** - Community-driven transit tracking app that crowdsources real-time bus locations across Jamaica
 
 ### 🏢 Production Systems
 
-- **Payment Processing Platform** - Internal payment gateway orchestrating transactions across multiple enterprise applications with secure API integrations
-- **Property Management System** - Comprehensive inspection and asset management solution handling large-scale facility operations
-- **Job Management Platform** - Digital work order system connecting supervisors to field technicians through web dashboard and mobile app
-- **Live Streaming Platform** - Real-time video streaming service with user authentication and content management
-- **E-commerce Platform** - Full-featured online storefront with inventory management and order processing
-- **Accounts Management System** - Internal financial tracking dashboard for payment reconciliation and reporting
+- 💳 **Payment Processing Platform** - Internal payment gateway orchestrating transactions across multiple enterprise applications with secure API integrations
+- 🏗️ **Property Management System** - Comprehensive inspection and asset management solution handling large-scale facility operations
+- 📋 **Job Management Platform** - Digital work order system connecting supervisors to field technicians through web dashboard and mobile app
+- 📺 **Live Streaming Platform** - Real-time video streaming service with user authentication and content management
+- 🛒 **E-commerce Platform** - Full-featured online storefront with inventory management and order processing
+- 💼 **Accounts Management System** - Internal financial tracking dashboard for payment reconciliation and reporting
 
 ## What I'm Building With
 
-**Backend**: Laravel APIs with domain-driven design patterns, RESTful architecture, and comprehensive testing
+⚙️ **Backend**: Laravel APIs with domain-driven design patterns, RESTful architecture, and comprehensive testing
 
-**Frontend**: Next.js with TypeScript, Shadcn/UI components, TailwindCSS for responsive interfaces
+🎨 **Frontend**: Next.js with TypeScript, Shadcn/UI components, TailwindCSS for responsive interfaces
 
-**Mobile**: Flutter for cross-platform iOS and Android applications
+📱 **Mobile**: Flutter for cross-platform iOS and Android applications
 
-**Infrastructure**: AWS deployment with CI/CD pipelines, Docker containerization, database optimization
+☁️ **Infrastructure**: AWS deployment with CI/CD pipelines, Docker containerization, database optimization
 
-**Database**: PostgreSQL and MySQL with performance tuning and migration strategies
+🗄️ **Database**: PostgreSQL and MySQL with performance tuning and migration strategies
 
 ## GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/DinitoThompson)
 
-## Github Stats
+## Github Status
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=DinitoThompson&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats"/>
 
 ## What I'm Doing
 
-- **Leading development teams** - Managing full-stack projects from requirements to production deployment
-- **Building for scale** - Architecting enterprise solutions that handle real-world complexity
-- **Designing systems** - Combining development and design expertise to create cohesive user experiences
-- **Shipping consistently** - Delivering production systems across web, mobile, and API platforms
+- 👥 **Leading development teams** - Managing full-stack projects from requirements to production deployment
+- 🚀 **Building for scale** - Architecting enterprise solutions that handle real-world complexity
+- 🎯 **Designing systems** - Combining development and design expertise to create cohesive user experiences
+- 📦 **Shipping consistently** - Delivering production systems across web, mobile, and API platforms
 
 ## Connect
 
@@ -71,11 +71,11 @@ Leading a team of 4 developers shipping enterprise solutions. Background in both
 <details>
 <summary>Quick Facts</summary>
 
-- Lead developer managing a team of 4
-- Dual background in software development and graphic design
-- Bachelor's in Computing from University of Technology, Jamaica
-- Architecting with domain-driven design principles
-- Powered by Kingston coffee and clean code
-- Building in public: community-first transit solutions
+- Code by day, design by night
+- Domain-driven design patterns for keeping enterprise systems sane
+- Claude + Cursor for AI-assisted development workflows
+- Bachelor's in Computing, UTech Jamaica
+- Running multiple Laravel/Next.js/Flutter stacks simultaneously
+- Kingston-based, coffee-powered, shipping real solutions
 
 </details>
