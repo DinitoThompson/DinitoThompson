@@ -1,6 +1,6 @@
 # Hi, I'm Dinito Thompson 👋
 
-📍 **Kingston, Jamaica** | 💻 **Lead Developer @ Konnexx** | 🎨 **Full-stack Builder + Designer**
+📍 **Kingston, Jamaica** | 💻 **Lead Developer @ Konnexx** | 🎨 **Full-stack Developer + Designer**
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
