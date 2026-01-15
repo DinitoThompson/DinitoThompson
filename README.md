@@ -19,7 +19,7 @@ Leading a team of 4 developers shipping enterprise solutions. Background in both
 
 ### 🚌 Open Source
 
-- **[Bus Ping](https://github.com/yourusername/bus-ping)** - Community-driven transit tracking app that crowdsources real-time bus locations across Jamaica
+- **Bus Ping** - Community-driven transit tracking app that crowdsources real-time bus locations across Jamaica
 
 ### 🏢 Production Systems
 
