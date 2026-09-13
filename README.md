@@ -13,7 +13,7 @@
 
 > Vibe-coding community-driven solutions – building full-stack production systems where code meets design.
 
-Leading a team of 4 developers shipping enterprise solutions. Background in both development and design, currently deep in Laravel APIs, Next.js interfaces, and Flutter mobile apps deployed on AWS infrastructure.
+Leading a team of developers, shipping enterprise solutions. Background in both development and design, currently deep in Laravel APIs, Next.js interfaces, and Flutter mobile apps deployed on AWS infrastructure.
 
 ## Current Projects
 
